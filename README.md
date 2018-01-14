@@ -1,2 +1,2 @@
 # VereinsKasse
-Einfache Kontoführungshilfe für Vereine
+Einfache Kontoführungshilfe für (kleine) Vereine
